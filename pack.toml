@@ -1,0 +1,13 @@
+name = "DSRVMC Vanilla Modpack"
+author = "DSRKafuU"
+version = "19.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b5ad78ced8e1371c768603033475a2a6a3e92d506e4ca188f0a6d46d9e5c169b"
+
+[versions]
+fabric = "0.14.7"
+minecraft = "1.19"

@@ -1,0 +1,183 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "7373591321d915ad3ffef90791b2be3014f9591ca1ccc39177859673d34d8080"
+
+[[files]]
+file = "README.md"
+hash = "354d105e0545e86dc4f0782de8bfc93ea7f3f6c2304c9396c8fabc23c9cd91ec"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a8fb4be44cbfe7835c4ebfeae4fa89f7dd71965fef08e5671f77b625b4e06414"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "955b5160e856fbc93b615ad021e78421383177db29a1b0bc451e2840ad659f79"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "ac58a321007dfe917701716cd6e7873d9516d58cea2b0de1f6c3ac7cbe7048c5"
+metafile = true
+
+[[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "87cff47e9eb4bdde176fbddd14a6c95a54a03f8af9704461f96abe1bfe30a0b6"
+metafile = true
+
+[[files]]
+file = "mods/durabilityviewer.pw.toml"
+hash = "c02eabded8af6a2282b4b44aab15206f198d44be3df21dd93ec8a8d4824ac32f"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "68a7ae55f43cf6c9ddf2e3e091705538bfc5d20b7e24b38afaa4e221bbcd3979"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "86fd4c1bb6f13fa109dfd1aa1e9cb84ffe71408de8da790b21d9756972740ad1"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "26894893b73719ef3dd79e4a8b11bf407f5bd7987679b41c1f01fd454e82dfc1"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "dc1f47a526f2264dc215437a81668d54c084d5beaaa6cbf6e284b88a59af88b5"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "506306a2f231c8e93dde883cc1c90a15b83219a4f3f03addd51e860ab67bc0a6"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "afe3992254de807d9adc977e96fb3e55db65e18bc57077534d51bdd79443d0fc"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "650381ab427243e517ed24a4cc00f1a73694863d6feac8ab3074674c1148b790"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "677e6eb10c7aa494473d1c9b55eaf54e4389ac19f7131564a153f81b43da45f2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5e14ee3730e67f5f210ec4797bb9420073403ec1925e755c43c802b38a76ad19"
+metafile = true
+
+[[files]]
+file = "overrides/CustomSkinLoader/CustomSkinLoader.json"
+hash = "51d9cebeac9768a65d921627ca0b5f00c9dcb42f22a6f38cfa628e6d162b504d"
+
+[[files]]
+file = "overrides/config/durabilityviewer.json"
+hash = "83917fcf0ef4c0ac5b939210e5e434d4ceda542aa2f3875fa6c4e2a76276dcb0"
+
+[[files]]
+file = "overrides/config/dynamicfps.toml"
+hash = "470b232a5eb76577d6de5d70f117e2085912dd9031581ae5dceb8f67ef014326"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "ce0e51270d59f23da584b9cfb7d2fb411a9a92a1472d13fe4c071a6e09298739"
+
+[[files]]
+file = "overrides/config/iris.properties"
+hash = "245b08619c46c909be2ccaaf19445f3780d56bd188f1d011856efcbeeb1eddd5"
+
+[[files]]
+file = "overrides/config/sodium-options.json"
+hash = "829e1ee98f32ab42befcae2778f91509f4f366def18a59ca7909999338239aaf"
+
+[[files]]
+file = "overrides/config/waila/waila.json"
+hash = "d2edb2dfa416bb093bf4829180bb381a9f47cfeb870712d769e32a72ca64cf7d"
+
+[[files]]
+file = "overrides/config/xaerominimap.txt"
+hash = "8b638b164723c76313dbc0de8aa6a55904cf523f1f5d55c7da14db45483453f6"
+
+[[files]]
+file = "overrides/config/xaeropatreon.txt"
+hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+
+[[files]]
+file = "overrides/config/xaeroworldmap.txt"
+hash = "4abb468b81c624629a5bc1407da7f6c0c0a010c9a81d09758aeefee1bc9ebb17"
+
+[[files]]
+file = "overrides/shaderpacks/BSL_v8.1.02.3.zip"
+hash = "32ae9c7f40fdc01e017ebcbdf5d9f3f551a4843ab91c958c3a172ae3926402f6"

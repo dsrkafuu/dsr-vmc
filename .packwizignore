@@ -1,0 +1,7 @@
+/dist/
+/node_modules/
+/.editorconfig
+/build.mjs
+/index.json
+/package.json
+/pnpm-lock.yaml

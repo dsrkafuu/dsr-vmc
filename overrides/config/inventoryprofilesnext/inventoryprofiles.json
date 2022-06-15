@@ -1,0 +1,11 @@
+{
+  "ModSettings": {
+    "enable_profiles": false,
+    "enable_auto_refill": false,
+    "enable_updates_check": false,
+    "first_run": false
+  },
+  "GuiSettings": {
+    "enable_profiles_ui": false
+  }
+}
