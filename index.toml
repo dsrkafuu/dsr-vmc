@@ -180,7 +180,7 @@ hash = "e65f98392bca29f7d8e5eeafb8512d259dc97fcaa4a88a6a03abb3f097591cbb"
 
 [[files]]
 file = "overrides/options.txt"
-hash = "2901c1ff8ff1d0c25b8496f67f5396ac26c4ca521f63dd74b4d01225841c5f0c"
+hash = "c71784217ebfb7d6c8abe741be152f1d090d0b760b36c2325efcc0547ba83927"
 
 [[files]]
 file = "overrides/shaderpacks/BSL_v8.1.02.3.zip"
