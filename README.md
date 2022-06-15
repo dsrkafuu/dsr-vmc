@@ -1,6 +1,6 @@
 # DSRVMC Vanilla Modpack
 
-Lightweight vanilla modpack for DSRVMC project.
+Lightweight vanilla Minecraft modpack for DSRVMC project.
 
 For players from China, check out [DSRTOOLS](https://tools.dsrkafuu.net/minecraft) for more details.
 

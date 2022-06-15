@@ -6,7 +6,7 @@ hash = "7373591321d915ad3ffef90791b2be3014f9591ca1ccc39177859673d34d8080"
 
 [[files]]
 file = "README.md"
-hash = "354d105e0545e86dc4f0782de8bfc93ea7f3f6c2304c9396c8fabc23c9cd91ec"
+hash = "aed1311bc5f0789827cae08fc98879659b74688b196a115b857408ea65fd711c"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -156,7 +156,7 @@ hash = "ce0e51270d59f23da584b9cfb7d2fb411a9a92a1472d13fe4c071a6e09298739"
 
 [[files]]
 file = "overrides/config/iris.properties"
-hash = "245b08619c46c909be2ccaaf19445f3780d56bd188f1d011856efcbeeb1eddd5"
+hash = "c8a3e5d468f39a9078e1fbac8ae4e740e605357a1bac5b3dfa41946610fcc4e2"
 
 [[files]]
 file = "overrides/config/sodium-options.json"
@@ -168,15 +168,19 @@ hash = "d2edb2dfa416bb093bf4829180bb381a9f47cfeb870712d769e32a72ca64cf7d"
 
 [[files]]
 file = "overrides/config/xaerominimap.txt"
-hash = "8b638b164723c76313dbc0de8aa6a55904cf523f1f5d55c7da14db45483453f6"
+hash = "9acecebd2e12de043a9e5f9838e9454e7767977077afe5e658b72d74736038e9"
 
 [[files]]
 file = "overrides/config/xaeropatreon.txt"
-hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
 
 [[files]]
 file = "overrides/config/xaeroworldmap.txt"
-hash = "4abb468b81c624629a5bc1407da7f6c0c0a010c9a81d09758aeefee1bc9ebb17"
+hash = "e65f98392bca29f7d8e5eeafb8512d259dc97fcaa4a88a6a03abb3f097591cbb"
+
+[[files]]
+file = "overrides/options.txt"
+hash = "2901c1ff8ff1d0c25b8496f67f5396ac26c4ca521f63dd74b4d01225841c5f0c"
 
 [[files]]
 file = "overrides/shaderpacks/BSL_v8.1.02.3.zip"
