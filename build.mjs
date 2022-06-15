@@ -51,7 +51,6 @@ const json = {
   version: "",
   mods: [],
   modrinth: "https://modrinth.com/modpack/dsrvmc",
-  curseforge: "https://www.curseforge.com/minecraft/modpacks/dsrvmc",
   java: "https://pan.baidu.com/s/11a6jx0MNM8BfrgDum1Ku_w?pwd=cksq",
   package: "https://pan.baidu.com/s/1HwO9hWnQtIFzegXS5WOFyA?pwd=4ii1",
 };
