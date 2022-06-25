@@ -163,6 +163,10 @@ file = "overrides/config/xaerominimap.txt"
 hash = "9acecebd2e12de043a9e5f9838e9454e7767977077afe5e658b72d74736038e9"
 
 [[files]]
+file = "overrides/config/xaerominimap_entities.json"
+hash = "e68471ce2653f027e8e7d662870b348a002faa06c372a61b591d4aea8ed79333"
+
+[[files]]
 file = "overrides/config/xaeropatreon.txt"
 hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
 
