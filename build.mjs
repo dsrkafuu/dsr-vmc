@@ -14,6 +14,7 @@ const { version } = fse.readJSONSync("package.json");
 $.quote = (s) => s;
 
 // build modpacks
+await $`packwiz refresh`;
 console.log(chalk.blue("building modrinth modpack..."));
 await $`packwiz modrinth export`;
 console.log(chalk.blue("building curseforge modpack..."));
