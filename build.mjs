@@ -51,9 +51,9 @@ const json = {
   release: "",
   version: "",
   mods: [],
-  modrinth: "https://modrinth.com/modpack/dsrvmc",
-  java: "https://pan.baidu.com/s/11a6jx0MNM8BfrgDum1Ku_w?pwd=cksq",
-  package: "https://pan.baidu.com/s/1HwO9hWnQtIFzegXS5WOFyA?pwd=4ii1",
+  modrinth: "//modrinth.com/modpack/dsrvmc",
+  java: "//pan.baidu.com/s/11a6jx0MNM8BfrgDum1Ku_w?pwd=cksq",
+  package: "//pan.baidu.com/s/1HwO9hWnQtIFzegXS5WOFyA?pwd=4ii1",
 };
 const pack = toml.parse(fse.readFileSync("pack.toml", "utf-8"));
 json.release = pack.version;
@@ -68,12 +68,12 @@ mods.forEach((mod) => {
   let modLink = "";
   if (modinfo.update.modrinth) {
     modSource = 0;
-    modLink = `https://modrinth.com/mod/${basename}`;
+    modLink = `//modrinth.com/mod/${basename}`;
   } else if (modinfo.update.curseforge) {
     modSource = 1;
-    modLink = `https://www.curseforge.com/minecraft/mc-mods/${basename}`;
+    modLink = `//www.curseforge.com/minecraft/mc-mods/${basename}`;
   }
-  markdown += `- ${modName}: ${modLink}\n`;
+  markdown += `- ${modName}: https:${modLink}\n`;
   json.mods.push({
     name: modName,
     source: modSource,
