@@ -69,6 +69,8 @@ npm run build
 
 ### Shaders
 
+Shaders are not included by default. You can download them below:
+
 - BSL: https://bitslablab.com/bslshaders
 
 ## License
