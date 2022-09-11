@@ -44,22 +44,23 @@ npm run build
 - bad packets: https://modrinth.com/mod/badpackets
 - Cloth Config API: https://modrinth.com/mod/cloth-config
 - Controlling: https://www.curseforge.com/minecraft/mc-mods/controlling
-- CustomSkinLoader: https://www.curseforge.com/minecraft/mc-mods/customskinloader
+- CustomSkinLoader: https://modrinth.com/mod/customskinloader
 - Durability Viewer: https://modrinth.com/mod/durabilityviewer
 - Dynamic FPS: https://modrinth.com/mod/dynamic-fps
 - Fabric API: https://modrinth.com/mod/fabric-api
+- Fabric Language Kotlin: https://modrinth.com/mod/fabric-language-kotlin
 - FerriteCore: https://modrinth.com/mod/ferrite-core
 - Indium: https://modrinth.com/mod/indium
 - Inventory Profiles Next: https://modrinth.com/mod/inventory-profiles-next
 - Iris Shaders: https://modrinth.com/mod/iris
-- Krypton: https://modrinth.com/mod/krypton
+- Krypton: https://www.curseforge.com/minecraft/mc-mods/krypton
 - LazyDFU: https://modrinth.com/mod/lazydfu
 - Lithium: https://modrinth.com/mod/lithium
 - Memory Leak Fix: https://modrinth.com/mod/memoryleakfix
 - Mod Menu: https://modrinth.com/mod/modmenu
 - Not Enough Crashes: https://modrinth.com/mod/notenoughcrashes
-- Roughly Enough Items Fabric/Forge (REI): https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
-- ShulkerBoxTooltip: https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip
+- Roughly Enough Items (REI): https://modrinth.com/mod/roughly-enough-items
+- ShulkerBoxTooltip [Fabric/Forge]: https://modrinth.com/mod/shulkerboxtooltip
 - Sodium: https://modrinth.com/mod/sodium
 - Starlight (Fabric): https://modrinth.com/mod/starlight
 - WTHIT: https://modrinth.com/mod/wthit
