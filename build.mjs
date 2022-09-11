@@ -42,7 +42,9 @@ cfpack.getEntries().forEach((entry) => {
 
 // copy overrides
 console.log(chalk.blue("processing overrides..."));
-fse.copySync("overrides", "dist", { overwrite: true });
+fse.copySync("config", "dist/config", { overwrite: true });
+fse.copySync("CustomSkinLoader", "dist/CustomSkinLoader", { overwrite: true });
+fse.copySync("options.txt", "dist/options.txt", { overwrite: true });
 
 // generate json & markdown
 let markdown = "\n";
