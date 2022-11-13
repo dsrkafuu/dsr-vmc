@@ -53,7 +53,7 @@ npm run build
 - Indium: https://modrinth.com/mod/indium
 - Inventory Profiles Next: https://modrinth.com/mod/inventory-profiles-next
 - Iris Shaders: https://modrinth.com/mod/iris
-- Krypton: https://www.curseforge.com/minecraft/mc-mods/krypton
+- Krypton: https://modrinth.com/mod/krypton
 - LazyDFU: https://modrinth.com/mod/lazydfu
 - Lithium: https://modrinth.com/mod/lithium
 - Memory Leak Fix: https://modrinth.com/mod/memoryleakfix

@@ -4,25 +4,25 @@ specifiers:
   '@types/adm-zip': ~0.5.0
   '@types/fs-extra': ~9.0.13
   '@types/glob': ~8.0.0
-  '@types/node': ~18.7.16
+  '@types/node': ~18.11.9
   adm-zip: ~0.5.9
-  chalk: ~5.0.1
+  chalk: ~5.1.2
   fs-extra: ~10.1.0
   glob: ~8.0.3
   toml: ~3.0.0
-  zx: ~7.0.8
+  zx: ~7.1.1
 
 devDependencies:
   '@types/adm-zip': 0.5.0
   '@types/fs-extra': 9.0.13
   '@types/glob': 8.0.0
-  '@types/node': 18.7.16
+  '@types/node': 18.11.9
   adm-zip: 0.5.9
-  chalk: 5.0.1
+  chalk: 5.1.2
   fs-extra: 10.1.0
   glob: 8.0.3
   toml: 3.0.0
-  zx: 7.0.8
+  zx: 7.1.1
 
 packages:
 
@@ -50,20 +50,20 @@ packages:
   /@types/adm-zip/0.5.0:
     resolution: {integrity: sha512-FCJBJq9ODsQZUNURo5ILAQueuA8WJhRvuihS3ke2iI25mJlfV2LK8jG2Qj2z2AWg8U0FtWWqBHVRetceLskSaw==}
     dependencies:
-      '@types/node': 18.7.16
+      '@types/node': 18.11.9
     dev: true
 
   /@types/fs-extra/9.0.13:
     resolution: {integrity: sha512-nEnwB++1u5lVDM2UI4c1+5R+FYaKfaAzS4OococimjVm3nQw3TuzH5UNsocrcTBbhnerblyHj4A49qXbIiZdpA==}
     dependencies:
-      '@types/node': 18.7.16
+      '@types/node': 18.11.9
     dev: true
 
   /@types/glob/8.0.0:
     resolution: {integrity: sha512-l6NQsDDyQUVeoTynNpC9uRvCUint/gSUXQA2euwmTuWGvPY5LSDUu6tkCtJB2SvGQlJQzLaKqcGZP4//7EDveA==}
     dependencies:
       '@types/minimatch': 3.0.5
-      '@types/node': 18.7.16
+      '@types/node': 18.11.9
     dev: true
 
   /@types/minimatch/3.0.5:
@@ -74,8 +74,8 @@ packages:
     resolution: {integrity: sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==}
     dev: true
 
-  /@types/node/18.7.16:
-    resolution: {integrity: sha512-EQHhixfu+mkqHMZl1R2Ovuvn47PUw18azMJOTwSZr9/fhzHNGXAJ0ma0dayRVchprpCj0Kc1K1xKoWaATWF1qg==}
+  /@types/node/18.11.9:
+    resolution: {integrity: sha512-CRpX21/kGdzjOpFsZSkcrXMGIBWMGNIHXXBVFSH+ggkftxg+XYP20TESbh+zFvFj3EQOl5byk0HTRn1IL6hbqg==}
     dev: true
 
   /@types/ps-tree/1.1.2:
@@ -108,8 +108,8 @@ packages:
       fill-range: 7.0.1
     dev: true
 
-  /chalk/5.0.1:
-    resolution: {integrity: sha512-Fo07WOYGqMfCWHOzSXOt2CxDbC6skS/jO9ynEcmpANMoPrD+W1r1K6Vx7iNm+AQmETU1Xr2t+n8nzkV9t6xh3w==}
+  /chalk/5.1.2:
+    resolution: {integrity: sha512-E5CkT4jWURs1Vy5qGJye+XwCkNj7Od3Af7CP6SujMetSMkLs8Do2RWJK5yx1wamHV/op8Rz+9rltjaTQWDnEFQ==}
     engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
     dev: true
 
@@ -308,8 +308,8 @@ packages:
     engines: {node: '>=10.5.0'}
     dev: true
 
-  /node-fetch/3.2.8:
-    resolution: {integrity: sha512-KtpD1YhGszhntMpBDyp5lyagk8KIMopC1LEb7cQUAh7zcosaX5uK8HnbNb2i3NTQK3sIawCItS0uFC3QzcLHdg==}
+  /node-fetch/3.2.10:
+    resolution: {integrity: sha512-MhuzNwdURnZ1Cp4XTazr69K0BTizsBroX7Zx3UgDSVcZYKF/6p0CBe4EUb/hLqmzVhl0UpYfgRljQ4yxE+iCxA==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
     dependencies:
       data-uri-to-buffer: 4.0.0
@@ -421,21 +421,21 @@ packages:
     engines: {node: '>= 14'}
     dev: true
 
-  /zx/7.0.8:
-    resolution: {integrity: sha512-sNjfDHzskqrSkWNj0TVhaowVK5AbpvuyuO1RBU4+LrFcgYI5u9CtyWWgUBRtRZl3bgGEF31zByszoBmwS47d1w==}
+  /zx/7.1.1:
+    resolution: {integrity: sha512-5YlTO2AJ+Ku2YuZKSSSqnUKuagcM/f/j4LmHs15O84Ch80Z9gzR09ZK3gR7GV+rc8IFpz2H/XNFtFVmj31yrZA==}
     engines: {node: '>= 16.0.0'}
     hasBin: true
     dependencies:
       '@types/fs-extra': 9.0.13
       '@types/minimist': 1.2.2
-      '@types/node': 18.7.16
+      '@types/node': 18.11.9
       '@types/ps-tree': 1.1.2
       '@types/which': 2.0.1
-      chalk: 5.0.1
+      chalk: 5.1.2
       fs-extra: 10.1.0
       globby: 13.1.2
       minimist: 1.2.6
-      node-fetch: 3.2.8
+      node-fetch: 3.2.10
       ps-tree: 1.2.0
       which: 2.0.2
       yaml: 2.1.1
