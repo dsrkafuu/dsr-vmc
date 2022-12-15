@@ -97,5 +97,13 @@
     "defaultValue": 80,
     "minValue": 0,
     "maxValue": 100
+  },
+  "durabilityviewer.config.hidedamagepercent": {
+    "key": "durabilityviewer.config.hidedamagepercent",
+    "toolTip": "durabilityviewer.config.tt.hidedamagepercent",
+    "value": 100,
+    "defaultValue": 100,
+    "minValue": 0,
+    "maxValue": 100
   }
 }

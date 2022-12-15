@@ -55,10 +55,10 @@ npm run build
 - Iris Shaders: https://modrinth.com/mod/iris
 - Krypton: https://modrinth.com/mod/krypton
 - LazyDFU: https://modrinth.com/mod/lazydfu
+- libIPN: https://modrinth.com/mod/libipn
 - Lithium: https://modrinth.com/mod/lithium
 - Memory Leak Fix: https://modrinth.com/mod/memoryleakfix
 - Mod Menu: https://modrinth.com/mod/modmenu
-- Not Enough Crashes: https://modrinth.com/mod/notenoughcrashes
 - Roughly Enough Items (REI): https://modrinth.com/mod/roughly-enough-items
 - ShulkerBoxTooltip [Fabric/Forge]: https://modrinth.com/mod/shulkerboxtooltip
 - Sodium: https://modrinth.com/mod/sodium
