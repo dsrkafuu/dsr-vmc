@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "51d9cebeac9768a65d921627ca0b5f00c9dcb42f22a6f38cfa628e6d162b504d"
+hash = "91599137fe61c0937588a039128a8ac63578a758a35c660f2fbe597ab60cc6d6"
 
 [[files]]
 file = "config/durabilityviewer.json"
@@ -18,31 +18,23 @@ hash = "ce0e51270d59f23da584b9cfb7d2fb411a9a92a1472d13fe4c071a6e09298739"
 
 [[files]]
 file = "config/iris.properties"
-hash = "4f1c4873dbe224ae02e65fb61c9b8d6b4c0ac72bd8d85874af2a4c39d067f84c"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "829e1ee98f32ab42befcae2778f91509f4f366def18a59ca7909999338239aaf"
+hash = "2650439ebd84c305cd5c38e3a804c9c18107ae7ffdda368361e097718a4a8aa1"
 
 [[files]]
 file = "config/waila/waila.json"
-hash = "d2edb2dfa416bb093bf4829180bb381a9f47cfeb870712d769e32a72ca64cf7d"
+hash = "a46c37751e5869edd3478eec79f7992ca0703f1b7de69f94b6b8da3b5e04341e"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "8004830fbaf8e7815268ab13b200b8d96b78801a33d73288f2072669735658cc"
+hash = "7f6dbe4ae5e774254c4e226252a35e9e8d11c6bf4641908a067a8540e0084f81"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "00c84b0a51664f27350b43defc6d3a9a55eb0cc1341bf7f49b3ab10405bd54c3"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
+hash = "2cefc63879938e2161e16039d768b93a6c86a0bd4b65c1479050087375045875"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "b611e98620c8370b2a47a08160c0e8c48413bdef0300386d09ed1879fdb4fe9a"
+hash = "7de1df8c73c481ffb8eb025400ef3a7fc20ee834f14ea3313670decf246c3d3f"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -181,4 +173,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c71784217ebfb7d6c8abe741be152f1d090d0b760b36c2325efcc0547ba83927"
+hash = "beaafb2c38c1f0f376cdaff6193eccec6e7ca054a5b2b89b35b8e85b14d619bf"
