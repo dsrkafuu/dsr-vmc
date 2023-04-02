@@ -2,8 +2,6 @@
 
 Lightweight vanilla Minecraft modpack for DSRVMC project.
 
-For players from China, check out [DSRTOOLS](https://tools.dsrkafuu.net/minecraft) for more details.
-
 We recommend using [No Chat Reports](https://modrinth.com/mod/no-chat-reports) mod to disable player chat reporting whenever possible. The mod is not included by default because it may prevent you from joining secure servers.
 
 ## Details
@@ -12,7 +10,7 @@ Starts from Minecraft 1.4.7 in 2012, the modpack is for those who want to join v
 
 Performace improvement is the main goal.
 
-It's also great for using as a base for your own large modpack.
+It's also great for using as a base for your own large modpack, you can clone the GitHub repository and start from there.
 
 ## Build
 
@@ -45,7 +43,6 @@ npm run build
 - Cloth Config API: https://modrinth.com/mod/cloth-config
 - Controlling: https://www.curseforge.com/minecraft/mc-mods/controlling
 - CustomSkinLoader: https://modrinth.com/mod/customskinloader
-- Durability Viewer: https://modrinth.com/mod/durabilityviewer
 - Dynamic FPS: https://modrinth.com/mod/dynamic-fps
 - Fabric API: https://modrinth.com/mod/fabric-api
 - Fabric Language Kotlin: https://modrinth.com/mod/fabric-language-kotlin
@@ -59,6 +56,7 @@ npm run build
 - Lithium: https://modrinth.com/mod/lithium
 - Memory Leak Fix: https://modrinth.com/mod/memoryleakfix
 - Mod Menu: https://modrinth.com/mod/modmenu
+- Not Enough Animations: https://modrinth.com/mod/not-enough-animations
 - Roughly Enough Items (REI): https://modrinth.com/mod/roughly-enough-items
 - ShulkerBoxTooltip [Fabric/Forge]: https://modrinth.com/mod/shulkerboxtooltip
 - Sodium: https://modrinth.com/mod/sodium
@@ -71,7 +69,7 @@ npm run build
 
 Shaders are not included by default. You can download them below:
 
-- BSL: https://bitslablab.com/bslshaders
+- BSL: https://modrinth.com/shader/bsl-shaders
 
 ## License
 

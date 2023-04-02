@@ -61,6 +61,7 @@ const pack = toml.parse(fse.readFileSync("pack.toml", "utf-8"));
 json.release = pack.version;
 json.version = pack.versions.minecraft;
 const mods = glob.sync("mods/*.pw.toml");
+mods.sort();
 mods.forEach((mod) => {
   const tomlFile = fse.readFileSync(mod, "utf-8");
   const basename = path.basename(mod, ".pw.toml");
