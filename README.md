@@ -4,6 +4,8 @@ Lightweight vanilla Minecraft modpack for DSRVMC project.
 
 We recommend using [No Chat Reports](https://modrinth.com/mod/no-chat-reports) mod to disable player chat reporting whenever possible. The mod is not included by default because it may prevent you from joining secure servers.
 
+For players from China, check out [here](https://dsrkafuu.net/minecraft)(WIP) for more details.
+
 ## Details
 
 Starts from Minecraft 1.4.7 in 2012, the modpack is for those who want to join vanilla servers without too much QoL features.
