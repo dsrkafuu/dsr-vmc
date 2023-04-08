@@ -5,10 +5,6 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "91599137fe61c0937588a039128a8ac63578a758a35c660f2fbe597ab60cc6d6"
 
 [[files]]
-file = "config/durabilityviewer.json"
-hash = "a6e8c5850532218dd8a256ea4ef69200baa2f37855fef66b55ad65ea40506cf0"
-
-[[files]]
 file = "config/dynamicfps.toml"
 hash = "470b232a5eb76577d6de5d70f117e2085912dd9031581ae5dceb8f67ef014326"
 
@@ -37,13 +33,23 @@ file = "config/xaeroworldmap.txt"
 hash = "7de1df8c73c481ffb8eb025400ef3a7fc20ee834f14ea3313670decf246c3d3f"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b1b9042b80ced7af7192b3159b12112c6b2899c81ff09f0232f01bce8f42fba1"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9fd477e1641d3e008b49089f7650e1023b8e0bbd7105231b60c8ebc7882906ad"
+hash = "5e259934dcbb1f7a3935e778a4614abf486b81d0da7ba4f11585d3784498b5c4"
 metafile = true
 
 [[files]]
@@ -72,8 +78,8 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "80f49d10263dca41505fd9a2c41c58209bd8f35ebd242e00e29b14d87abd9955"
+file = "mods/entityculling.pw.toml"
+hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
 metafile = true
 
 [[files]]
@@ -137,6 +143,11 @@ hash = "e0ffc486b8d9b9bcd9123b284f8795c0e671321f7de9461df04de9e4fcc443c8"
 metafile = true
 
 [[files]]
+file = "mods/qsl.pw.toml"
+hash = "a0d6bc80ddb30ae38daab5e04d8b1a8066a9f9c51a7f6948f5d755e057c7bd84"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "1a288ba9c3f6a2fd9798b1db215b0c24a8d20e50bb8b006972d6e682197fee27"
 metafile = true
@@ -158,17 +169,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "bcae6587aa67c6fe078f72f0b91af26e0c2a6fdb52d5df3c361a96f696672f13"
+hash = "09eeea145537da2b895fae591bc97dcfee6c8232d63d9c8c11055b59df1dcfa4"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "dcc977f54d5ab97147c646871d54c05bfdc33498ffb2f7c1626e0cd0d01cbe6d"
+hash = "67f48870ac5b18cc17c99b015b6dd67121d6535d5fe7bc0f0ba04d924f0c4fee"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "45d36b82d1444a3f8459e195a35c64f6e1be8a3024684f9feec00c6902f48f3d"
+hash = "32a20f527f7de281607cd8bbc74d16d569af47541d92e8300b7ef6716b838d0f"
 metafile = true
 
 [[files]]

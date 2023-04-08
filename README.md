@@ -39,6 +39,8 @@ npm run build
 
 ### Mods
 
+- 3D Skin Layers: https://modrinth.com/mod/3dskinlayers
+- AntiGhost: https://modrinth.com/mod/antighost
 - AppleSkin: https://modrinth.com/mod/appleskin
 - Architectury API: https://modrinth.com/mod/architectury-api
 - bad packets: https://modrinth.com/mod/badpackets
@@ -46,7 +48,7 @@ npm run build
 - Controlling: https://www.curseforge.com/minecraft/mc-mods/controlling
 - CustomSkinLoader: https://modrinth.com/mod/customskinloader
 - Dynamic FPS: https://modrinth.com/mod/dynamic-fps
-- Fabric API: https://modrinth.com/mod/fabric-api
+- EntityCulling: https://modrinth.com/mod/entityculling
 - Fabric Language Kotlin: https://modrinth.com/mod/fabric-language-kotlin
 - FerriteCore: https://modrinth.com/mod/ferrite-core
 - Indium: https://modrinth.com/mod/indium
@@ -59,6 +61,7 @@ npm run build
 - Memory Leak Fix: https://modrinth.com/mod/memoryleakfix
 - Mod Menu: https://modrinth.com/mod/modmenu
 - Not Enough Animations: https://modrinth.com/mod/not-enough-animations
+- Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL): https://modrinth.com/mod/qsl
 - Roughly Enough Items (REI): https://modrinth.com/mod/roughly-enough-items
 - ShulkerBoxTooltip [Fabric/Forge]: https://modrinth.com/mod/shulkerboxtooltip
 - Sodium: https://modrinth.com/mod/sodium
