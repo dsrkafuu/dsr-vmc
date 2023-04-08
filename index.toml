@@ -17,6 +17,10 @@ file = "config/iris.properties"
 hash = "2650439ebd84c305cd5c38e3a804c9c18107ae7ffdda368361e097718a4a8aa1"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "c5540bf37dc8488d7ebc6fe6261a3bd6ed40781315e3cb2d3a7877526c586349"
+
+[[files]]
 file = "config/waila/waila.json"
 hash = "a46c37751e5869edd3478eec79f7992ca0703f1b7de69f94b6b8da3b5e04341e"
 
@@ -184,4 +188,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "beaafb2c38c1f0f376cdaff6193eccec6e7ca054a5b2b89b35b8e85b14d619bf"
+hash = "e5baac02dc69be7b62ae8be68ea302a6a00f46270ec2d489be73da21ba158b71"
