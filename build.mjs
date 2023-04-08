@@ -54,8 +54,8 @@ const json = {
   version: "",
   mods: [],
   modrinth: "//modrinth.com/modpack/dsrvmc",
-  java: "//pan.baidu.com/s/11a6jx0MNM8BfrgDum1Ku_w?pwd=cksq",
-  package: "//pan.baidu.com/s/1HwO9hWnQtIFzegXS5WOFyA?pwd=4ii1",
+  java: "https://pan.baidu.com/s/1kTK0WxMqawfSZGx-2t1mSg?pwd=7jsg",
+  package: "https://pan.baidu.com/s/1UE__eVnSTkpQaliNkSGCZQ?pwd=odtk",
 };
 const pack = toml.parse(fse.readFileSync("pack.toml", "utf-8"));
 json.release = pack.version;
