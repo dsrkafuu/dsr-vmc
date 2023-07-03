@@ -7,7 +7,7 @@ import fse from "fs-extra";
 import toml from "toml";
 import chalk from "chalk";
 import AdmZip from "adm-zip";
-import glob from "glob";
+import { glob } from "glob";
 const { version } = fse.readJSONSync("package.json");
 
 // fix for windows $''
