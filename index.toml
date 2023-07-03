@@ -87,6 +87,11 @@ hash = "31713296359c70914a4fc56d32a61f41620af105819f826bbffbb234591d34fe"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b92a08e1bcd540e972238d9744b2b85df361df4eeaeeaec993be62c33507054a"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
 metafile = true
@@ -147,13 +152,13 @@ hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
-hash = "4f5bc996ba57f18abd2dc12801f1cbb8d06d3d115232b15d27174172f4d4004f"
+file = "mods/roughly-enough-items.pw.toml"
+hash = "be84563e2c530c6960ceedec8a6ec6a1272fcb6de2740d7e6bcf096e347ea38f"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "be84563e2c530c6960ceedec8a6ec6a1272fcb6de2740d7e6bcf096e347ea38f"
+file = "mods/searchables.pw.toml"
+hash = "fcb1434a5c0b42eea5b27d0eb5a2160cf438d941e4f7f9d88a969cf4d819123d"
 metafile = true
 
 [[files]]
@@ -173,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "ba1c6b53100f4b5666ccd77de55a8a29daf7b5b1b961f16dcbb8127959221a61"
+hash = "5d920f14136c4e3b7731846bd21dbb5ace512d962b61338ffffeae284525b520"
 metafile = true
 
 [[files]]
