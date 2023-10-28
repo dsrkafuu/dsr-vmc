@@ -59,7 +59,6 @@ npm run build
 - LazyDFU: https://modrinth.com/mod/lazydfu
 - libIPN: https://modrinth.com/mod/libipn
 - Lithium: https://modrinth.com/mod/lithium
-- Memory Leak Fix: https://modrinth.com/mod/memoryleakfix
 - Mod Menu: https://modrinth.com/mod/modmenu
 - Not Enough Animations: https://modrinth.com/mod/not-enough-animations
 - Roughly Enough Items (REI): https://modrinth.com/mod/roughly-enough-items

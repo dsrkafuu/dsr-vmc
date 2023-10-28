@@ -7,7 +7,7 @@
   "private": true,
   "type": "module",
   "name": "dsrvmc",
-  "version": "20.1.0",
+  "version": "20.2.0",
   "description": "Lightweight vanilla Minecraft modpack for DSRVMC project.",
   "author": "DSRKafuU <dsrkafuu@outlook.com> (https://dsrkafuu.net)",
   "license": "Apache-2.0",
