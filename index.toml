@@ -14,7 +14,7 @@ hash = "ce0e51270d59f23da584b9cfb7d2fb411a9a92a1472d13fe4c071a6e09298739"
 
 [[files]]
 file = "config/iris.properties"
-hash = "2650439ebd84c305cd5c38e3a804c9c18107ae7ffdda368361e097718a4a8aa1"
+hash = "e88f4aca2fab3a236f4d95c8225e53a8c78e5fcec3eb8026cfc2225b1258f7a2"
 
 [[files]]
 file = "config/modmenu.json"
@@ -26,15 +26,15 @@ hash = "a46c37751e5869edd3478eec79f7992ca0703f1b7de69f94b6b8da3b5e04341e"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "7f6dbe4ae5e774254c4e226252a35e9e8d11c6bf4641908a067a8540e0084f81"
+hash = "2aa815bd4ba76ff7d6c38205c6665bc32502a17b5999fa44943762231d4b13ed"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "2cefc63879938e2161e16039d768b93a6c86a0bd4b65c1479050087375045875"
+hash = "cbb62e80547e0c2cd0ce2258be5e7f1de229ccad7a1d4a72bb6fa63168e225ea"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "7de1df8c73c481ffb8eb025400ef3a7fc20ee834f14ea3313670decf246c3d3f"
+hash = "52a3b3ce770e550190d45aefa26fbade3e152a5f3c814489773e3e50fd8d091d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -193,4 +193,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e5baac02dc69be7b62ae8be68ea302a6a00f46270ec2d489be73da21ba158b71"
+hash = "4645b89cb56dfe97a31306992df3e32c7437d0ff8acd748d52b7ed7c5ce3791d"
