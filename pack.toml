@@ -1,16 +1,16 @@
 name = "DSRVMC Vanilla Modpack"
 author = "DSRKafuU"
-version = "20.1.0"
+version = "20.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "01902f2231b0df25c1925a50ece11bfc015f74805b1895a4a4ae7af0bba13449"
+hash = "afcf4c6b32c2dd576ee619e52809e49f304028c328ff224cf5d98c6631a72794"
 
 [versions]
-fabric = "0.14.21"
-minecraft = "1.20.1"
+fabric = "0.14.24"
+minecraft = "1.20.2"
 
 [options]
-acceptable-game-versions = ["1.20", "1.20.1"]
+acceptable-game-versions = ["1.20", "1.20.1", "1.20.2"]
