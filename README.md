@@ -45,13 +45,14 @@ npm run build
 - Architectury API: https://modrinth.com/mod/architectury-api
 - bad packets: https://modrinth.com/mod/badpackets
 - Cloth Config API: https://modrinth.com/mod/cloth-config
-- Controlling: https://www.curseforge.com/minecraft/mc-mods/controlling
 - CustomSkinLoader: https://modrinth.com/mod/customskinloader
 - Dynamic FPS: https://modrinth.com/mod/dynamic-fps
+- Enhanced Block Entities: https://modrinth.com/mod/ebe
 - EntityCulling: https://modrinth.com/mod/entityculling
 - Fabric API: https://modrinth.com/mod/fabric-api
 - Fabric Language Kotlin: https://modrinth.com/mod/fabric-language-kotlin
 - FerriteCore: https://modrinth.com/mod/ferrite-core
+- ImmediatelyFast: https://modrinth.com/mod/immediatelyfast
 - Indium: https://modrinth.com/mod/indium
 - Inventory Profiles Next: https://modrinth.com/mod/inventory-profiles-next
 - Iris Shaders: https://modrinth.com/mod/iris
@@ -62,7 +63,6 @@ npm run build
 - Mod Menu: https://modrinth.com/mod/modmenu
 - Not Enough Animations: https://modrinth.com/mod/not-enough-animations
 - Roughly Enough Items (REI): https://modrinth.com/mod/roughly-enough-items
-- Searchables: https://modrinth.com/mod/searchables
 - ShulkerBoxTooltip [Fabric/Forge]: https://modrinth.com/mod/shulkerboxtooltip
 - Sodium: https://modrinth.com/mod/sodium
 - Starlight (Fabric): https://modrinth.com/mod/starlight

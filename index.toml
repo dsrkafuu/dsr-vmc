@@ -67,9 +67,8 @@ hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
+file = "mods/controlling.pw.toml.bak"
 hash = "9b39e00ada019023a582f58c78ecd986d68dcd33c1408c910a28473e2702a516"
-metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
@@ -162,9 +161,8 @@ hash = "fa061dc6468aa501d456d99f4a73a92076a00944b62faefff122c7ce4c2c4e18"
 metafile = true
 
 [[files]]
-file = "mods/searchables.pw.toml"
+file = "mods/searchables.pw.toml.bak"
 hash = "6791ac9f9a9f7804541edcd22e4003b40d6bbf91460ccf4f98e7a5f235d581a5"
-metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
@@ -198,4 +196,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4645b89cb56dfe97a31306992df3e32c7437d0ff8acd748d52b7ed7c5ce3791d"
+hash = "f2b7474e06d56a5743879eccd4fb946080a76510d3adfa5962c3640bc17db74f"
