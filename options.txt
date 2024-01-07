@@ -1,4 +1,4 @@
-version:3465
+version:3578
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -30,6 +30,7 @@ glintSpeed:0.5
 glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
+narratorHotkey:true
 gamma:0.5
 renderDistance:16
 simulationDistance:12
@@ -118,9 +119,9 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.dynamicfps.toggle_forced:key.keyboard.unknown
-key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.g
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.waila.config:key.keyboard.keypad.0
@@ -146,7 +147,7 @@ key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
 key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
 key_gui.xaero_alternative_list_players:key.keyboard.unknown
-key_gui.xaero_toggle_pac_players:key.keyboard.unknown
+key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_open_map:key.keyboard.m
